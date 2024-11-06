@@ -1,0 +1,8 @@
+.about-pick-custome-border {
+    border: 1px solid #00ada7;
+  }
+  
+  .dark .about-pick-custome-border {
+    border: 1px solid #EAB308;
+  }
+  
